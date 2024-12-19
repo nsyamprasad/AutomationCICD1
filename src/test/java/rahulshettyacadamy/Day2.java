@@ -9,6 +9,7 @@ public class Day2 {
 	{
 		System.out.println("PersonalLoan1");
 		System.out.println("PersonalLoan11");
+System.out.println("PersonalLoan111");
 
 	}
 	@Test()
@@ -16,6 +17,7 @@ public class Day2 {
 	{
 		System.out.println("PersonalLoan2");
 		System.out.println("PersonalLoan22");
+System.out.println("PersonalLoan222");
 
 	}
 
