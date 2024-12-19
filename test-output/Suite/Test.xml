@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-FKNGPDU" failures="0" tests="2" name="rahulshettyacadamy.Day2" time="0.025" errors="0" timestamp="18 Dec 2024 16:22:28 GMT">
+  <testcase classname="rahulshettyacadamy.Day2" name="PersonalLoan1" time="0.012"/>
+  <testcase classname="rahulshettyacadamy.Day2" name="PersonalLoan2" time="0.001"/>
+</testsuite>

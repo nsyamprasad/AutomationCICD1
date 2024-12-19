@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-FKNGPDU" failures="0" tests="3" name="rahulshettyacadamy.Day1" time="2.662" errors="0" timestamp="19 Dec 2024 03:52:29 GMT">
+  <testcase classname="rahulshettyacadamy.Day1" name="HomeLoan1" time="0.012"/>
+  <testcase classname="rahulshettyacadamy.Day1" name="HomeLoan2" time="0.001"/>
+  <testcase classname="rahulshettyacadamy.Day1" name="Login" time="2.637"/>
+</testsuite>
