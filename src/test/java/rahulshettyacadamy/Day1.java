@@ -34,5 +34,11 @@ public class Day1 {
 		System.out.println("HomeLoan2");
 
 	}
+@Test()
+	public void HomeLoan3()
+	{
+		System.out.println("HomeLoan3");
+
+	}
 
 }
